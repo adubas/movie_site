@@ -12,11 +12,11 @@
 
 Dentro desse arquivo você vai achar:
 
-site
- ├── fresh_tomatoes.html
- ├── fresh_tomatoes.py
- ├── media.py
- ├── site.py
+site <br />
+ ├── fresh_tomatoes.html<br/>
+ ├── fresh_tomatoes.py<br />
+ ├── media.py<br/>
+ ├── site.py<br />
  └── README.md
 
 ## O que fazer
